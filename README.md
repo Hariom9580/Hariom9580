@@ -1,6 +1,7 @@
 # Hi there, I'm Hariom Sahu 👋
 
-![Banner]([68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6865616465725f62616e6e65722d322e6a7067](https://camo.githubusercontent.com/e25d173d73b3b9ea132e4b1ad6ac45ce715bd826e6b6947010d05c24e91fd125/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6865616465725f62616e6e65722d322e6a7067))
+![Banner](https://camo.githubusercontent.com/e25d173d73b3b9ea132e4b1ad6ac45ce715bd826e6b6947010d05c24e91fd125/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6865616465725f62616e6e65722d322e6a7067)
+
 
 ---
 
@@ -44,9 +45,3 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hariom9580&theme=radical&no-frame=true&no-bg=true&margin-w=5)
 
----
-
-## **Popular Repositories**
-- [**real_estate_website**](https://github.com/Hariom9580/real_estate_website)
-- [**github-user-search**](https://github.com/Hariom9580/github-user-search)
-- [**web_scrapper**](https://github.com/Hariom9580/web_scrapper)
