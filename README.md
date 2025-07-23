@@ -22,11 +22,11 @@
 
 ---
 
-## **Connect with me:**
-<p>
-  <a href="https://www.linkedin.com/in/hariom-sahu-y22/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/></a>
-  <a href="https://www.geeksforgeeks.org/user/hariom9580/"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" width="30" height="30"/></a>
-</p>
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/hariom-sahu-y22/))
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)]([https://auth.geeksforgeeks.org/user/your-profile](https://www.geeksforgeeks.org/user/hariom9580/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/hariomsahu)
 
 ---
 
