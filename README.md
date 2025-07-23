@@ -24,14 +24,15 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/hariom-sahu-y22/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 20px;"/>
 </a>
 <a href="https://www.geeksforgeeks.org/user/hariom9580/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40" style="margin-right: 20px;"/>
 </a>
 <a href="https://leetcode.com/hariomsahu" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
 </a>
+
 
 ---
 
